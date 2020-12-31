@@ -65,7 +65,7 @@ The k-Means clustering was a good example of using human intelligence over the a
 
 ![final_choropleth_with_clusters](images/choropleth_with_colored_markers.png)
 
-<br />
+
 This provides a meaningful visual of the competitive landscape in the target zip codes, which I will discuss further in the Discussion and Conclusion section below!
 
 ## Discussion and Conclusion
